@@ -28,7 +28,7 @@ do {
         } */
 
         for (let index = 0; index < items.length; index++) {
-            if(ite===items[index]){
+            if(item===items[index]){
             console.log("El item esta repetido vuelve a introducir uno diferente.");
             repetido=true;
             }else{
